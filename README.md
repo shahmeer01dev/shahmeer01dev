@@ -1,4 +1,4 @@
-<h1>Hi there 👋, , I'm Shahmeer Nadeem</h1>
+<h1 align="center">Hi there 👋, I'm Shahmeer Nadeem</h1>
 
 <p align="center">Computer Science Student at Bahria University</p>
 
