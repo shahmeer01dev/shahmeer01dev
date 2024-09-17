@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Connect with me:
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shahmeer01dev/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" width="40" height="40" style="background: #0077b5; padding: 5px; border-radius: 50%;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/81/LinkedIn_icon.svg" alt="LinkedIn" width="40" height="40" style="background: #0077b5; padding: 5px; border-radius: 50%;"/>
   </a>
 
   <!-- LeetCode -->
@@ -29,9 +29,9 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" style="background: #f9a828; padding: 5px; border-radius: 50%;"/>
   </a>
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/shahmeer01dev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="40" height="40" style="background: #1da1f2; padding: 5px; border-radius: 50%;"/>
+  <!-- X (formerly Twitter) -->
+  <a href="https://x.com/shahmeer01dev">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/X_logo.svg" alt="X" width="40" height="40" style="background: #000000; padding: 5px; border-radius: 50%;"/>
   </a>
 
 
