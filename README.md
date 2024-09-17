@@ -1,6 +1,7 @@
-<p align="center"> ## Hi there 👋, , I'm Shahmeer Nadeem</p>
+<h1>Hi there 👋, , I'm Shahmeer Nadeem</h1>
 
 <p align="center">Computer Science Student at Bahria University</p>
+
 <!--
 **shahmeer01dev/shahmeer01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
