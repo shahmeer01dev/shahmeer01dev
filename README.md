@@ -21,16 +21,11 @@ Here are some ideas to get you started:
 ### Connect with me:
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shahmeer01dev/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  
-  <!-- Telegram -->
-  <a href="https://t.me/shahmeer01dev">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
-  </a>
-  
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/shahmeer01dev/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
+
 
