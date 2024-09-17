@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Shahmeer Nadeem</h1>
 
-<br><br>
+<br>
 <h3 align="center">Computer Science Student at Bahria University</h3>
-<br><br>
+<br>
 
 <!--
 **shahmeer01dev/shahmeer01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
