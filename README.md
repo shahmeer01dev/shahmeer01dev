@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Shahmeer Nadeem</h1>
 
-<br>
 <h3 align="center">Computer Science Student at Bahria University</h3>
 <br>
 
