@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning Python and improving my data analysis and machine learning skills.
+- 🌱 I’m learning Python and improving my data analysis and machine learning skills.
 - 💬 Ask me about Computer Science, Development, Machine Learning
 - 📫 How to reach me: shahmeer.n@outlook.com
 <!--
@@ -19,38 +19,18 @@ Here are some ideas to get you started:
 -->
 
 ### Connect with me:
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://www.freecodecamp.org/shahmeer01dev">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp"/>
-  </a>
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/shahmeer01dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://github.com/shahmeer01dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
+  
+  <!-- Telegram -->
   <a href="https://t.me/shahmeer01dev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/user/shahmeer01dev/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+  
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/shahmeer01dev/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="LeetCode" width="40" height="40"/>
   </a>
-</p>
 
-<p align="center">
-  <!-- Row 3 -->
-  <a href="https://twitter.com/shahmeer01dev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.w3profile.com/shahmeer01dev">
-    <img src="https://img.shields.io/badge/W3Schools-0769AD?style=for-the-badge&logo=w3schools&logoColor=white" alt="W3Schools"/>
-  </a>
-</p>
